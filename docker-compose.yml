@@ -18,6 +18,6 @@ services:
     depends_on:
       - app
     ports:
-      - "8081:8081"
+      - "8083:8083"
     expose:
       - 5000
